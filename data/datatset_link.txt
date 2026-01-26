@@ -1,0 +1,3 @@
+Dataset: Cervical Cancer (Risk Factors)
+Source: UCI Machine Learning Repository
+URL: https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
