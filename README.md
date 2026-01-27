@@ -5,13 +5,11 @@
 ## Project Overview
 This capstone project applies data analytics and machine learning techniques to the UCI Cervical Cancer (Risk Factors) dataset to explore predictors associated with cervical cancer screening outcomes. The analysis focuses on data exploration, preprocessing, and model evaluation, with particular attention to missing data, class imbalance, and clinical interpretability.
 
-The goal of this project is to demonstrate an end-to-end analytical workflow, from raw data inspection to predictive modeling and evaluation.
+The analysis emphasizes data quality, handling of missing values, and interpretability of results in a healthcare context.
 
 ---
 
 ## Project Stages
-
-This project is organized into the following analytical stages, all contained within a single technical report:
 
 1. **Data Analysis**
    - Dataset overview and structure
@@ -43,3 +41,11 @@ This project is organized into the following analytical stages, all contained wi
 
 ## Repository Structure
 
+data/
+Contains the working dataset used in the analysis and a text file linking to the original data source.
+
+notebooks/
+Contains a compiled .ipynb and PDF version of the notebook for easy review and submission.
+
+reports/
+Contains the full written report of the Initial Results and the Code. 
