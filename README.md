@@ -15,7 +15,6 @@ The analysis emphasizes data quality, handling of missing values, and interpreta
    - Dataset overview and structure
    - Variable types and missingness patterns
    - Descriptive statistics
-   - Exploratory visualizations
    - Initial insights and implications
 
 2. **Data Preparation**
@@ -32,10 +31,6 @@ The analysis emphasizes data quality, handling of missing values, and interpreta
    - Performance evaluation using classification metrics
    - Model comparison and interpretation
 
-4. **Findings and Next Steps**
-   - Summary of results
-   - Key limitations
-   - Opportunities for future improvement
 
 ---
 
